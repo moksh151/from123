@@ -1,0 +1,38 @@
+#heading2{
+    text-align: center;
+    word-spacing: 100px;
+    background-color: maroon;
+    height: 40px;
+}
+
+
+
+p{
+    height: 200px;
+    background-image:url(kk.jpeg );
+}
+ 
+
+div{
+    background-color: rgba(233, 150, 122, 0.801);
+    width: 200px;
+}
+
+ul{
+    background-color: rgb(44, 223, 223);
+    width: 300px;
+}
+#heading1{
+    background-color: royalblue;
+    width: 200px;
+    margin: 10px;
+}
+ol{
+    background-color: darkslategray;
+}
+
+#heading3{
+    text-align:center;
+    background-color: maroon;
+    
+}
